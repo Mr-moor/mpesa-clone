@@ -1,0 +1,2 @@
+The project has been written using c/c++ and with the compliment of sqlite,which serves as a database for storing transactions and data N/B THE FORM IN WHICH THE TRANSACTIONS ARE COMMITED IS NOT SECURE you may decide to use secure methods due to security please when writing programs for financial institutions follow the ACID rule.
+the main program is sandwhitched in a switch statement and mutually binded with control structures (IF,IF THEN ELSE,ETC),data structures[arrays]
